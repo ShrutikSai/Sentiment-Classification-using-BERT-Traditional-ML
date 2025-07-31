@@ -84,14 +84,6 @@ Feel free to open issues or submit pull requests to enhance the model performanc
 
 ---
 
-## 📬 Contact
-
-Shrutik Sai  
-📫 [LinkedIn](https://www.linkedin.com/in/shrutik-sai)  
-💻 [Portfolio](https://your-portfolio-link.com)  
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See LICENSE for more details.
